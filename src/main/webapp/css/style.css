@@ -1,0 +1,70 @@
+/*
+color palate]
+https://colorhunt.co/palette/175336
+*/
+
+body {
+    background-color: #ddb6c6!important;
+}
+.custon-bg {
+    background-color: #721b65!important;
+}
+.purple-bg {
+    background-color: #b80d57;
+ 
+ }
+.btn-purple {
+    border: 1px solid #c06c84;
+    color: #c06c84;
+}
+.btn-purple:hover {
+    background-color: #c06c84;
+    color: white;
+}
+
+btn-disable {
+    visibility: hidden;
+}
+/*image*/
+.img-size {
+    max-width: 125px;
+    border: 4px solid #b80d57;
+}
+.card-line {
+    border: 1px solid #dcdcdc;
+}
+
+.admin .card,
+.index .card {
+    background-color: #f4f4f4;
+}
+.admin .card:hover,
+.index .card:hover {
+    background-color: #eaeaea;
+    cursor: pointer;
+}
+
+a:hover{
+    color: #ffd4e0!important;
+}
+
+.card-img-style {
+    max-height: 200px;
+    max-width: 100%;
+    width:auto;
+}
+
+.discount-label {
+    font-size: 13px!important;
+    font-style: italic!important;
+}
+
+.dropdown-style:hover {
+    background: #721b65;
+}
+ 
+.div-stick {
+    position: -webkit-sticky!important;
+  position: sticky!important;
+   top: 0;
+}
